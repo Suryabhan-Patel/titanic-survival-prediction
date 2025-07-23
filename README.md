@@ -64,5 +64,5 @@ This project predicts whether a passenger survived the Titanic disaster using a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+   git clone https://github.com/Suryabhan-Patel/titanic-survival-prediction.git
 
